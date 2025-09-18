@@ -34,5 +34,7 @@ It focuses on:
 ## How to Run
 1. Clone the repo  
    ```bash
-   git clone https://github.com/zzeng507/sec-financial-analysis.ipynb
-   cd sec-financial-analysis
+  git clone https://github.com/zzeng507/sec-financial-analysis.git
+cd sec-financial-analysis
+
+# A detailed PDF report and the full Jupyter Notebook are included in the repository for further review.
