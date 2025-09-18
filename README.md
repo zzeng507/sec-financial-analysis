@@ -7,18 +7,18 @@ Comparative financial analysis of **Tesla (TSLA)**, **Nvidia (NVDA)**, and **For
 ## Project Overview
 This project demonstrates an end-to-end pipeline to extract, clean, and analyze financial data from the **SEC EDGAR API** and **Yahoo Finance**.  
 It focuses on:
-- Automating SEC data collection
-- Cleaning inconsistent financial keys
-- Calculating financial ratios (PE, PEG, EBITDA margin, Debt-to-Equity, etc.)
-- Comparing 3 companies with different industry contexts
+- Automating SEC data collection  
+- Cleaning inconsistent financial keys  
+- Calculating financial ratios (PE, PEG, EBITDA margin, Debt-to-Equity, etc.)  
+- Comparing 3 companies with different industry contexts  
 
 ---
 
 ## Tech Stack
-- **Python** (pandas, numpy, matplotlib, requests)
-- **Google Colab / Jupyter Notebook**
-- **SEC EDGAR API** (company facts endpoint)
-- **Yahoo Finance** (stock price data)
+- **Python** (pandas, numpy, matplotlib, requests)  
+- **Google Colab / Jupyter Notebook**  
+- **SEC EDGAR API** (company facts endpoint)  
+- **Yahoo Finance** (stock price data)  
 
 ---
 
@@ -37,8 +37,6 @@ It focuses on:
 
 ```bash
 git clone https://github.com/zzeng507/sec-financial-analysis.git
-cd sec-financial-analysis```
+cd sec-financial-analysis
 
 
-
-### A detailed PDF report and the full Jupyter Notebook are included in the repository for further review.
