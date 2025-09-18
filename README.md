@@ -37,7 +37,7 @@ It focuses on:
 
 ```bash
 git clone https://github.com/zzeng507/sec-financial-analysis.git
-cd sec-financial-analysis
+cd sec-financial-analysis```
 
 
 
