@@ -1,2 +1,38 @@
-# sec-financial-analysis
-SEC EDGAR Financial Analysis | 5-year peer comparison of US companies with ratios and dashboards
+# SEC Financial Analysis
+
+Comparative financial analysis of **Tesla (TSLA)**, **Nvidia (NVDA)**, and **Ford (F)** using SEC EDGAR filings and Python.
+
+---
+
+## Project Overview
+This project demonstrates an end-to-end pipeline to extract, clean, and analyze financial data from the **SEC EDGAR API** and **Yahoo Finance**.  
+It focuses on:
+- Automating SEC data collection
+- Cleaning inconsistent financial keys
+- Calculating financial ratios (PE, PEG, EBITDA margin, Debt-to-Equity, etc.)
+- Comparing 3 companies with different industry contexts
+
+---
+
+## Tech Stack
+- **Python** (pandas, numpy, matplotlib, requests)
+- **Google Colab / Jupyter Notebook**
+- **SEC EDGAR API** (company facts endpoint)
+- **Yahoo Finance** (stock price data)
+
+---
+
+## Key Features
+- Automated SEC API integration with fallback logic  
+- Revenue growth (CAGR) and profitability ratios  
+- Valuation metrics (PE, PEG) with error handling  
+- Comparison dashboards across Tesla, Nvidia, and Ford  
+- Exportable CSV and PDF report  
+
+---
+
+## How to Run
+1. Clone the repo  
+   ```bash
+   git clone https://github.com/zzeng507/sec-financial-analysis.ipynb
+   cd sec-financial-analysis
