@@ -38,6 +38,7 @@ It focuses on:
 ```bash
 git clone https://github.com/zzeng507/sec-financial-analysis.git
 cd sec-financial-analysis
+```
 
-A detailed PDF report and the full Jupyter Notebook are included in the repository for further review.
+## A detailed PDF report and the full Jupyter Notebook are included in the repository for further review.
 
