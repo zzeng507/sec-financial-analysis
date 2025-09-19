@@ -42,7 +42,6 @@ cd sec-financial-analysis
 
 ## A detailed PDF report and the full Jupyter Notebook are included in the repository for further review.
 
-## Key Findings and Result
 ## Key Findings & Results
 
 - **Nvidia**: Strongest growth (~36% CAGR), highest profitability (~47% EBITDA margin), but expensive valuation (PEG ~267).  
