@@ -43,4 +43,15 @@ cd sec-financial-analysis
 ## A detailed PDF report and the full Jupyter Notebook are included in the repository for further review.
 
 ## Key Findings and Result
+## Key Findings & Results
+
+- **Nvidia**: Strongest growth (~36% CAGR), highest profitability (~47% EBITDA margin), but expensive valuation (PEG ~267).  
+- **Tesla**: Overvalued (PE ~939), growth data inconsistent due to SEC key issues.  
+- **Ford**: Modest growth (~8% CAGR), low margin, and negative earnings in the latest year.  
+
+### Revenue Growth (2019–2024)
+![Revenue Trend](images/revenue_trend.png)
+
+### Valuation Metrics (PE & PEG)
+![Valuation Table](images/valuation_table.png)
 
