@@ -69,7 +69,7 @@ cd sec-financial-analysis
 - **Tesla**: P/E ~939, PEG not meaningful due to negative CAGR.  
 - **Ford**: Reported a net loss, so valuation ratios were not reliable.
 - **Revenue Forecast**
-![Revenue Forecast](imagesrevenue_forecast.png.png)
+![Revenue Forecast](revenue_forecast.png.png)
 
 
 
