@@ -44,13 +44,29 @@ cd sec-financial-analysis
 
 ## Key Findings & Results
 
-- **Nvidia**: Strongest growth (~36% CAGR), highest profitability (~47% EBITDA margin), but expensive valuation (PEG ~267).  
-- **Tesla**: Overvalued (PE ~939), growth data inconsistent due to SEC key issues.  
-- **Ford**: Modest growth (~8% CAGR), low margin, and negative earnings in the latest year.  
+### Revenue & Growth
+- **Nvidia (NVDA)**: Fastest revenue growth, peaking at ~$130B in 2025 before a slight dip.  
+- **Tesla (TSLA)**: Strong earlier growth but sharp decline in 2025, showing volatility.  
+- **Ford (F)**: Stable and steady upward trend, consistent with a mature automaker.  
 
-### Revenue Growth (2019–2024)
-![Revenue Trend](images/revenue_trend.png)
 
-### Valuation Metrics (PE & PEG)
-![Valuation Table](images/valuation_table.png)
+
+---
+
+### Profitability (EBITDA Margin)
+- **Nvidia**: Industry-leading margins, climbing above 60% in 2025.  
+- **Tesla**: Margins hovered around 10%, showing positive but limited profitability.  
+- **Ford**: Margins remained under 10%, typical for legacy automakers.  
+
+![EBITDA Margin by Year](images/ebitda_margin_by_year.png)
+
+---
+
+### Valuation (P/E and PEG)
+- **Nvidia**: P/E ~95, PEG ~268 → expensive, but partially justified by strong growth.  
+- **Tesla**: P/E ~939, PEG not meaningful due to negative CAGR.  
+- **Ford**: Reported a net loss, so valuation ratios were not reliable.
+
+
+
 
