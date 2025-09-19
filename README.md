@@ -42,3 +42,5 @@ cd sec-financial-analysis
 
 ## A detailed PDF report and the full Jupyter Notebook are included in the repository for further review.
 
+## Key Findings and Result
+
