@@ -6,11 +6,7 @@ Comparative financial analysis of **Tesla (TSLA)**, **Nvidia (NVDA)**, and **For
 
 ## Project Overview
 This project demonstrates an end-to-end pipeline to extract, clean, and analyze financial data from the **SEC EDGAR API** and **Yahoo Finance**.  
-It focuses on:
-- Automating SEC data collection  
-- Cleaning inconsistent financial keys  
-- Calculating financial ratios (PE, PEG, EBITDA margin, Debt-to-Equity, etc.)  
-- Comparing 3 companies with different industry contexts  
+It focuses on giving some suggestions to investors.
 
 ---
 
