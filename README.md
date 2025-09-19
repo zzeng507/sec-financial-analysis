@@ -47,7 +47,9 @@ cd sec-financial-analysis
 ### Revenue & Growth
 - **Nvidia (NVDA)**: Fastest revenue growth, peaking at ~$130B in 2025 before a slight dip.  
 - **Tesla (TSLA)**: Strong earlier growth but sharp decline in 2025, showing volatility.  
-- **Ford (F)**: Stable and steady upward trend, consistent with a mature automaker.  
+- **Ford (F)**: Stable and steady upward trend, consistent with a mature automaker.
+- **Revenue by Year**
+![Revenue by Year](revenue_by_year.png.png) 
 
 
 
@@ -58,7 +60,7 @@ cd sec-financial-analysis
 - **Tesla**: Margins hovered around 10%, showing positive but limited profitability.  
 - **Ford**: Margins remained under 10%, typical for legacy automakers.  
 
-![EBITDA Margin by Year](images/ebitda_margin_by_year.png)
+![EBITDA Margin by Year](ebitda_margin.png.png)
 
 ---
 
@@ -66,6 +68,8 @@ cd sec-financial-analysis
 - **Nvidia**: P/E ~95, PEG ~268 → expensive, but partially justified by strong growth.  
 - **Tesla**: P/E ~939, PEG not meaningful due to negative CAGR.  
 - **Ford**: Reported a net loss, so valuation ratios were not reliable.
+- **Revenue Forecast**
+![Revenue Forecast](imagesrevenue_forecast.png.png)
 
 
 
